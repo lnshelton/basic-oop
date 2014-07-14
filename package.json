@@ -1,0 +1,18 @@
+{
+  "name": "basic-oop",
+  "version": "0.0.0",
+  "description": "This project is a basic into to ojbect oriented programming.",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lnshelton/basic-oop"
+  },
+  "author": "LaTonya Shelton",
+  "license": "ISC",
+  "url": "https://github.com/lnshelton/basic-oop/issues",
+  "homepage": "https://github.com/lnshelton/basic-oop",
+  "dependencies": {
+    "chalk": "^0.5.1",
+    "sync-prompt": "^0.4.1"
+  }
+}
